@@ -23,10 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)
 
-### Projects
-
-[![](https://img.shields.io/badge/-🚀%20RYZE-000)](https://ryze-rp.com/)
-
 ![Jaarkos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaarkos&icon_color=fff&bg_color=0,000000,121212,e03131,ff0000&theme=dark&show_icons=true)
 
 <picture>
